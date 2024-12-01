@@ -1,0 +1,1 @@
+pip install Flask Flask-SQLAlchemy psycopg2-binary passlib web3 cryptography flask-cors flask_jwt_extended transformers flask_migrate flask-bcrypt pymupdf SentencePiece torch protobuf  sentence-transformers
